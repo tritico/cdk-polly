@@ -18,4 +18,5 @@ The example application is modeled off the example demonstration at [Build A Ser
 The following items are still left to be done manually after stack creation
 * Add CORS method to API Gateway 
 * Method Level API Gateway (query param and response)
+* Copy API Gateway endpoing into website script
 * Website Deployment bug
