@@ -1,4 +1,4 @@
-var API_ENDPOINT = "https://rd1a5vnq8f.execute-api.us-east-1.amazonaws.com/prod"
+var API_ENDPOINT = "CONFIGURE_ENDPOINT_HERE"
 
 document.getElementById("sayButton").onclick = function(){
 
